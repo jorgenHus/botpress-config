@@ -1,0 +1,15 @@
+{
+  "botName": "Assistant",
+  "botDescription": "",
+  "showConversationsButton": false,
+  "showStartNewConversationButton": false,
+  "enableTranscriptDownload": false,
+  "enableReset": false,
+  "enableConversations": false,
+  "layout": {
+    "showHeader": false,
+    "showFooter": false
+  },
+  "useSessionStorage": true,
+  "persistSession": false
+}
