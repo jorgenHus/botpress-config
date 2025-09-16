@@ -1,31 +1,32 @@
 {
-  "version": "v3",
   "botId": "301ca3d3-1e61-4db5-8bfb-b63047e1e38b",
   "clientId": "8a1b84e2-e2bc-4174-a661-252c13a01012",
+  "configuration": {
+    "version": "v3",
 
-  "botName": "Assistant",
-  "botDescription": "",
+    "botName": "Assistant",
+    "botDescription": "",
 
-  "showConversationsButton": false,
-  "showStartNewConversationButton": false,
-  "enableTranscriptDownload": false,
-  "enableReset": false,
-  "enableConversations": false,
+    "showConversationsButton": false,
+    "showStartNewConversationButton": false,
+    "enableTranscriptDownload": false,
+    "enableReset": false,
+    "enableConversations": false,
 
-  "layout": {
-    "showHeader": false,
-    "showFooter": false
-  },
+    "layout": {
+      "showHeader": false,
+      "showFooter": false
+    },
 
-  "useSessionStorage": true,
-  "persistSession": false,
+    "useSessionStorage": true,
+    "persistSession": false,
 
-  "themeMode": "light",
-  "color": "#3276EA",
-  "variant": "soft",
-  "fontFamily": "inter",
-  "radius": 4,
-  "feedbackEnabled": false,
-  "soundEnabled": true
+    "themeMode": "light",
+    "color": "#3276EA",
+    "variant": "soft",
+    "fontFamily": "inter",
+    "radius": 4,
+    "feedbackEnabled": false,
+    "soundEnabled": true
+  }
 }
-
